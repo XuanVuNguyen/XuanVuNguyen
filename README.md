@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Nguyen Nguyen Xuan Vu.
-- 👀 I’m interested in Chemoinformatics, Machine learning, Natural language processing.
+- 👀 I’m interested in AI for Drug Discovery, Natural language processing.
 - 📫 How to reach me xuanvunguyen.1834@gmail.com.
 
 <!---
