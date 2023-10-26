@@ -1,5 +1,5 @@
-- 👋 Hi, my name is Nguyen Nguyen Xuan Vu.
-- 👀 As a Chemistry graduate and a self-taught AI developer, I’m interested in AI for Drug Discovery and Natural Language Processing.
+- 👋 Hi, my name is Nguyen Xuan Vu Nguyen.
+- 👀 Interested in AI for Drug Discovery, Cheminformatics, Large AI models, and Quantum Computing.
 - 📫 How to reach me: 
   * Gmail: xuanvunguyen.1834@gmail.com
   * LinkedIn: https://www.linkedin.com/in/xuan-vu-nguyen
