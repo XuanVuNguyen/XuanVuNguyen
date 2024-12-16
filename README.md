@@ -1,5 +1,5 @@
-- 👋 Hi, my name is Nguyen Xuan Vu Nguyen.
-- 👀 Interested in AI for Drug Discovery, Cheminformatics, Large AI models, and Quantum Computing.
+- 👋 Hi, I am Vu, currently a Master's student in Cheminformatics.
+- 👀 Interested in AI for Ai for Science, Large Language Model, Geometric Deep Learning.
 - 📫 How to reach me: 
   * Gmail: xuanvunguyen.1834@gmail.com
   * LinkedIn: https://www.linkedin.com/in/xuan-vu-nguyen
